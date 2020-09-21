@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Ghar PG - Student Accomadation 
 
-Template Name: KnightOne
+
 Template URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
