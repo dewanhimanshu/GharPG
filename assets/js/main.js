@@ -174,8 +174,7 @@
     $(document).ready(function() {
       $('.venobox').venobox({
         'share': false,
-        framewidth: '300px',        // default: ''
-        frameheight: '300px',       // default: ''
+              // default: ''
     
        
       });
