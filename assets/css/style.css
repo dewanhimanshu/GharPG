@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero.jpg") top center;
+  background: url("../img/2570FrontView.jpeg") top center;
   background-size: cover;
   position: relative;
 }
@@ -713,7 +713,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/2670FrontNew.jpg") fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/2570FrontView.jpeg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
